@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class MySqlConn {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)   {
 		try {
 			// step1 load the driver class
 			Class.forName("com.mysql.cj.jdbc.Driver");

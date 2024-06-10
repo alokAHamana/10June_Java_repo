@@ -15,7 +15,7 @@ public class ArrayListComplete {
 		a.add(55);
 		a.add(1,99);
 		
-		System.out.println(a);                //[10,99,15,20,55]
+		System.out.println(a);                    //[10,99,15,20,55]
 		
 		a2.add(1);
 		a2.add(2);
